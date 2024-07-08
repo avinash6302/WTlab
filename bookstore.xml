@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bookstore.xsd">
+    <book>
+        <title>Web Programming</title>
+        <author>Chris Bates</author>
+        <ISBN>123-456-789</ISBN>
+        <publisher>Wiley</publisher>
+        <edition>3</edition>
+        <price>350</price>
+    </book>
+    <book>
+        <title>Internet and World Wide Web</title>
+        <author>Deitel & Deitel</author>
+        <ISBN>123-456-781</ISBN>
+        <publisher>Pearson</publisher>
+        <edition>3</edition>
+        <price>450</price>
+    </book>
+</bookstore>

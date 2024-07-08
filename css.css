@@ -1,0 +1,38 @@
+a:link{color:black;}
+a:visited{color:pink;}
+a:active{color:red;}
+a:hover{color:green;}
+
+.right{
+    text-align:center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: blue;
+    font-family: comic sans ms;
+    font-size: 30;
+}
+
+.image{
+    text-align: left;
+    font-family: "monotyope corsiva";
+    font-weight: 10;
+
+}
+
+.image1{
+    background-image: url("https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg?cs=srgb&dl=pexels-jplenio-1103970.jpg&fm=jpg");
+    background-repeat: no-repeat;
+
+    width: 1500;
+    height: 450;
+
+}
+
+table{
+    align: center;
+    border: 10;
+    border-style: ridge;
+    border-color: yellow;
+}
+
+
